@@ -14,7 +14,7 @@ https://github.com/Guevara-chan/Xors3D-for-PB/tree/master/DLL
 - Block height
 
 ## What is not supported?
-- Sprties
+- Sprites
 - Slopes and angled blocks
 
 
