@@ -92,7 +92,7 @@ void eTrkParser::SetupWorld()
 	unsigned char r = eApp::CovertColorToChar(pLight.Red);
 	unsigned char g = eApp::CovertColorToChar(pLight.Green);
 	unsigned char b = eApp::CovertColorToChar(pLight.Blue);
-	xAmbientLight(r,g,b);
+	xAmbientLight(255,255,255);
 }
 
 void eTrkParser::GenerateFlats()
